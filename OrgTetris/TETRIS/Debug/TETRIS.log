@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  소스.c
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(194,22): warning C4013:  'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(201,49): warning C4133:  '함수': 'void (__stdcall *)(void *)'과(와) 'LPTHREAD_START_ROUTINE' 사이의 형식이 호환되지 않습니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1350,10): warning C4033:  'pause'은(는) 값을 반환해야 합니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1532,7): warning C4013:  'mkdir'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1534,13): warning C4013:  '_access'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1584,15): warning C4047:  '함수': 'char *const '의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1584,15): warning C4024:  'sprintf_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1585,17): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'char *[100]'과(와) 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1585,17): warning C4024:  '_popen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1596,17): warning C4047:  '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1597,23): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1597,23): warning C4024:  'strcat': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1155): warning C4715:  'gameOver': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\작업물\Programming\[수행평가] C Project\OrgTetris\TETRIS\소스.c(1354): warning C4715:  'pause': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  TETRIS.vcxproj -> D:\작업물\Programming\[수행평가] C Project\OrgTetris\Debug\Tetris.exe
